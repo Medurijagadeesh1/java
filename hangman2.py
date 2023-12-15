@@ -1,6 +1,6 @@
 import random
 print("welcome to handman game")
-print("guess the 3 numbers from 1 to 10 ")
+print("guess the 6 numbers from 1 to 10 ")
 list1=[1,2,3,4,5,6,7,8,9]
 display1=random.choice(list1)
 list2=[1,2,3,4,5,6,7,8,9]
